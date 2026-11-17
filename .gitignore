@@ -1,0 +1,20 @@
+# Build-Artefakte
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+
+# Echte Daten niemals committen: Backups, Exporte, Videos, Berichte
+*.gbf
+*.gcl
+*.264
+*.mp4
+*_report.pdf
+*_ExportInfo.xml
+*_events.txt
+
+# Passwoerter / Geheimnisse
+*.key
+passwort*.txt
+password*.txt
