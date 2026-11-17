@@ -25,11 +25,20 @@ enthaltenen Videostreams und erzeugt zusätzlich eine druckfähige
 Dokumentation — damit man mit solchen Sicherungen überhaupt arbeiten
 kann, wenn der Hersteller keinerlei Clients freigibt.
 
-> **Rechtlicher Hinweis:** Das Tool dient der Wiederherstellung und
-> Dokumentation eigener bzw. berechtigt zugänglicher Beweissicherungen.
-> Es umgeht **keine** Verschlüsselung — das beim Export vergebene
-> Passwort wird weiterhin benötigt. Es besteht kein Bezug zu Geutebrück;
-> „G-Core" ist eine Marke der Geutebrück GmbH.
+> **Rechtlicher Hinweis / Clean-Room-Erklärung:** Dieses Tool wurde
+> ausschließlich aus einer `.gbf`-Beispieldatei, dem dazugehörigen
+> Export-Passwort und **Reverse Engineering** (dokumentiert in
+> `CHANGELOG.md`/`AGENTS.md`) entwickelt. Es wurden **keinerlei Teile**
+> der Original-Programme `GView32.exe`/`GView64.exe` verwendet — weder
+> Code, Ressourcen noch Binärdaten; der Original-Viewer war zum
+> Entwicklungszeitpunkt nicht einmal lesbar. Das Tool enthält damit
+> keine urheberrechtlich geschützten Bestandteile des Herstellers.
+>
+> Es dient der Wiederherstellung und Dokumentation eigener bzw.
+> berechtigt zugänglicher Beweissicherungen und umgeht **keine**
+> Verschlüsselung — das beim Export vergebene Passwort wird weiterhin
+> benötigt. Es besteht kein Bezug zu Geutebrück; „G-Core" ist eine
+> Marke der Geutebrück GmbH.
 
 ## Features
 

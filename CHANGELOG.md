@@ -1,5 +1,15 @@
 # Changelog — GBF-Extract
 
+## [1.3.3] — 2026-03-08
+
+### Dokumentation (keine Code-Änderung)
+
+- README: Rechtlicher Hinweis erweitert zur **Clean-Room-Erklärung** —
+  das Tool wurde nur aus einer `.gbf`-Beispieldatei, dem Export-Passwort
+  und Reverse Engineering entwickelt; keinerlei Teile von
+  `GView32.exe`/`GView64.exe` (Code, Ressourcen, Binärdaten) wurden
+  verwendet.
+
 ## [1.3.2] — 2026-03-08
 
 ### Dokumentation (keine Code-Änderung)

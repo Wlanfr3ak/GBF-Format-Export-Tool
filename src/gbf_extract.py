@@ -44,7 +44,7 @@ import struct
 import sys
 import xml.etree.ElementTree as ET
 
-__version__ = "1.3.2"
+__version__ = "1.3.3"
 
 BLOCK = 4096
 SIG = b"\xd2\x38\x0c\xc4"
